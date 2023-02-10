@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 #print different world using while and case statment
 counter=1
